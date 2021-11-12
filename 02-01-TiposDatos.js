@@ -61,3 +61,16 @@ console.log(autos);
 var z = '';
 console.log(z);
 
+// concatenar strings
+var nombre = "Giovany";
+var apellido = "Dominguez";
+var nombreCompleto = nombre + ' ' + apellido;
+console.log(nombreCompleto);
+
+// sintaxis basica de variables
+let adjetivo = "el cagao";
+console.log(adjetivo);
+const alv = "Lara";
+
+// buenas practicas de variables
+let nombreCompleto2 = "El Cagao Ramirez";
